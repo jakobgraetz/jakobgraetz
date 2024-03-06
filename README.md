@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on some private projects
 - 🌱 I’m currently learning C++, Rust
-- 👯 I’m looking to collaborate on fun projects, mostly involving maths
+- 👯 I’m looking to collaborate on fun projects, mostly involving maths or minecraft
 - 💬 Ask me about maths
 - 📫 How to reach me: just reach out on GitHub
 - 😄 Pronouns: he/him
