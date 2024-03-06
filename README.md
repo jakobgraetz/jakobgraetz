@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning C++ and Rust
 - 👯 I’m looking to collaborate on fun projects, mostly involving maths or minecraft
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: boolean algebra and computer science are quite logical 
+- ⚡ Fun fact: I usually am better at playing Golf on my own than with company.  
   
 <!-- - 💬 Ask me about maths -->
 <!-- - 📫 How to reach me: just reach out on GitHub -->
