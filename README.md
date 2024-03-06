@@ -3,11 +3,11 @@
 - 🔭 I’m currently working on some private projects
 - 🌱 I’m currently learning C++ and Rust
 - 👯 I’m looking to collaborate on fun projects, mostly involving maths or minecraft
-<!-- - 💬 Ask me about maths -->
-<!-- - 📫 How to reach me: just reach out on GitHub -->
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: boolean algebra and computer science are quite logical 
   
+<!-- - 💬 Ask me about maths -->
+<!-- - 📫 How to reach me: just reach out on GitHub -->
 <!--
 **jakobgraetz/jakobgraetz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
