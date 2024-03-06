@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning C++, Rust
+- 👯 I’m looking to collaborate on fun projects, mostly involving maths
+- 💬 Ask me about maths
+- 📫 How to reach me: just reach out on GitHub
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: 
+  
 <!--
 **jakobgraetz/jakobgraetz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
