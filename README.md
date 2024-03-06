@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on some private projects
-- 🌱 I’m currently learning C++, Rust
+- 🌱 I’m currently learning C++ and Rust
 - 👯 I’m looking to collaborate on fun projects, mostly involving maths or minecraft
-- 💬 Ask me about maths
-- 📫 How to reach me: just reach out on GitHub
+<!-- - 💬 Ask me about maths -->
+<!-- - 📫 How to reach me: just reach out on GitHub -->
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: boolean algebra and computer science are quite logical 
   
