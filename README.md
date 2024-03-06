@@ -6,7 +6,7 @@
 - 💬 Ask me about maths
 - 📫 How to reach me: just reach out on GitHub
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: boolean algebra and computer science are quite logical 
   
 <!--
 **jakobgraetz/jakobgraetz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
