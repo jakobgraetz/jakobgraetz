@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on some private projects
 - 🌱 I’m currently learning C++, Rust
 - 👯 I’m looking to collaborate on fun projects, mostly involving maths
 - 💬 Ask me about maths
