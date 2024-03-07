@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on some private projects
-- 🌱 I’m currently learning C++ and Rust
-- 👯 I’m looking to collaborate on fun projects, mostly involving maths or minecraft
+- 🔭 I’m currently working on some private projects.
+- 🌱 I’m currently learning C++ and Rust.
+- 👯 I’m looking to collaborate on fun projects, mostly involving maths or minecraft.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I usually am better at playing Golf on my own than with company.  
   
