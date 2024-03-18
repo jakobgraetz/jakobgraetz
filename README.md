@@ -8,6 +8,8 @@
 
 ### My Experiences
 
+- 🧪 Internship at a Chemistry lab
+
 <!-- - 💬 Ask me about maths -->
 <!-- - 📫 How to reach me: just reach out on GitHub -->
 <!--
