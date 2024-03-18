@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://avatars.githubusercontent.com/u/96118933?v=4" border-radius="16px"><br>
+  <img src="https://avatars.githubusercontent.com/u/96118933?v=4" height="200px"><br>
   <img src="https://komarev.com/ghpvc/?username=jakobgraetz&style=flat-square&color=blue" alt=""/>
 </div>
 
