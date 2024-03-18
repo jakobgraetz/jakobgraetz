@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/zPbnEgxsPJOJSD3qfr" width="480" height="480"n></img><p><a href="https://giphy.com/gifs/jk-maru-marujon-zPbnEgxsPJOJSD3qfr">via GIPHY</a></p><br>
+  <img src="https://avatars.githubusercontent.com/u/96118933?v=4"><br>
   <img src="https://komarev.com/ghpvc/?username=jakobgraetz&style=flat-square&color=blue" alt=""/>
 </div>
 
