@@ -31,6 +31,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id="footer" align="center">
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakobgraetz)](https://github.com/anuraghazra/github-readme-stats)
-</div>
