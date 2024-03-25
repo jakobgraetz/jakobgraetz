@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning C++ and Rust.
 - 👯 I’m looking to collaborate on fun projects, mostly involving maths or minecraft.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I usually am better at playing Golf on my own than with company.  
+- ⚡ Fun fact: When I was seven, the first piece of real code I wrote was an implementation of the Fibonacci Sequence.
 
 ### My Experiences
 
