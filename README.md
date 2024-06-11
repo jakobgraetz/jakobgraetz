@@ -14,7 +14,7 @@
 
 ### My Experiences
 
-- 🧪 Intern at a Chemistry lab ()
+- 🧪 Intern at a Chemistry lab (Chemical & Physical Particle Analysis)
 
 <!-- - 💬 Ask me about maths -->
 <!-- - 📫 How to reach me: just reach out on GitHub -->
