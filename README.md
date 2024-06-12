@@ -12,7 +12,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: When I was seven, the first piece of real code I wrote was an implementation of the Fibonacci Sequence.
 - 📚 I'm a student at a German grammar school ("Gymnasium") and particularly enjoy mathematics and CS.
-<button>Click me</button>
+
 ### My Experiences
 
 - 🧪 Intern at a Chemistry lab (Chemical & Physical Particle Analysis)
