@@ -55,9 +55,9 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<!-- - 💬 Ask me about maths -->
-<!-- - 📫 How to reach me: just reach out on GitHub -->
-<!--
+<!-- - 💬 Ask me about maths
+     - 📫 How to reach me: just reach out on GitHub
+
 **jakobgraetz/jakobgraetz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
