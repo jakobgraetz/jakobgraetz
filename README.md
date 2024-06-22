@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on fun projects, mostly involving maths or minecraft.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: When I was seven, the first piece of real code I wrote was an implementation of the Fibonacci Sequence.
-- 📚 I'm a student and particularly enjoy mathematics and CS.
+- 📚 I'm a student and particularly enjoy Mathematics and CS.
 
 ### My Experiences
 
