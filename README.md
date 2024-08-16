@@ -7,7 +7,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on some private projects.
-- 🌱 I’m currently learning C++ and Rust.
+- 🌱 I’m currently learning C and Assembly (x86).
 - 👯 I’m looking to collaborate on fun projects, mostly involving maths or minecraft.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: When I was seven, the first piece of real code I wrote was an implementation of the Fibonacci Sequence.
