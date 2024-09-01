@@ -13,10 +13,10 @@
 - ⚡ Fun fact: When I was seven, the first piece of real code I wrote was an implementation of the Fibonacci Sequence.
 - 📚 I'm a student and particularly enjoy Mathematics and CS.
 
-### My Experiences
+### My Experience
 
 - 🧪 Intern at a Chemistry lab (Chemical & Physical Particle Analysis)
-- 🖥️ Two-Week Work Experience at Eulerpool Research Systems
+- 🖥️ Two-Week Internship at Eulerpool Research Systems
 
 ### Technologies and other Things I use
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
