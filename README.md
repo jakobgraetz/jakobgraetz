@@ -5,7 +5,7 @@
 </div>
 
 ### Hi there 👋
-
+<!--
 - 🔭 I’m currently working on some private projects.
 - 🌱 I’m currently learning C and Assembly (x86).
 - 👯 I’m looking to collaborate on fun projects, mostly involving maths or minecraft.
@@ -71,4 +71,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 -->
