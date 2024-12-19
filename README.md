@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://avatars.githubusercontent.com/u/96118933?v=4" height="200px"><br>
-</div>
-
 ### Hi there 👋
 <!--
 - 🔭 I’m currently working on some private projects.
