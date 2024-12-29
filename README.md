@@ -1,5 +1,7 @@
 ### Hi there 👋
 <!--
+It is not knowledge, but the act of learning, not possession but the act of getting there, which grants the greatest enjoyment. [Wahrlich es ist nicht das Wissen, sondern das Lernen, nicht das Besitzen sondern das Erwerben, nicht das Da-Seyn, sondern das Hinkommen, was den grössten Genuss gewährt.] - C.F. Gauss
+
 - 🔭 I’m currently working on some private projects.
 - 🌱 I’m currently learning C and Assembly (x86).
 - 👯 I’m looking to collaborate on fun projects, mostly involving maths or minecraft.
